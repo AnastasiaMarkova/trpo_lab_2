@@ -6,5 +6,6 @@ int main(int argc, char **argv)
  askname(first, last);
  printf("Hello, %s %s!\n", first, last);
  printf("Hello, Настя\n");
+ printf("Nice to meet you!");
  return 0;
 }
